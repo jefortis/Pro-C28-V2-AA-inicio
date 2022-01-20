@@ -1,2 +1,3 @@
-# Pro-C28-V2-AA-inicio
-Pro  C28 V2 AA inicio
+# Invasion-Pirata-etapa6
+
+agregar sonidos y puntuación
